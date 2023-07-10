@@ -42,7 +42,7 @@ function NavBar() {
       </ul>
 
       {/* Social Icons */}
-      <div className=" hidden lg:flex fixed flex-col top-[35%] left-0">
+      <div className=" hidden xl:flex fixed flex-col top-[35%] left-0">
         <ul>
           <li className="w-[160px] h-[60px] flex justify-between items-center ml-[-100px] hover:ml-[-10px] duration-500">
             <a
@@ -54,7 +54,7 @@ function NavBar() {
           </li>
           <li className="w-[160px] h-[60px] flex justify-between items-center ml-[-100px] hover:ml-[-10px] duration-500">
             <a
-              href="https://www.linkedin.com/in/jthomasparrishjr/"
+              href="https://github.com/wowjimmyparrish"
               className="flex justify-between items-center w-full text-gray-300"
             >
               GitHub <FaGithub size={20} />
