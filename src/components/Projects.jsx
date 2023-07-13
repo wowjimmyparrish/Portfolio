@@ -24,10 +24,10 @@ function Projects() {
             className="shadow-lg shadow-black group container rounded-md flex justify-center items-center mx-auto content-div"
           >
             {/* Hover Effects */}
-            <div className="opacity-0 group-hover:opacity-100 ">
-              <span className="text-2xl font bold text-white tracking-wider ">
+            <div className="opacity-0 group-hover:opacity-100 text-center ">
+              <span className="text-2xl font bold text-white tracking-wider">
                 {" "}
-                React/Rails Application
+                BJJHub
               </span>
               <div className="pt-8 text-center ">
                 <a href="https://bjjhub-app.onrender.com">
@@ -54,10 +54,10 @@ function Projects() {
             className="shadow-lg shadow-black group container rounded-md flex justify-center items-center mx-auto content-div"
           >
             {/* Hover Effects */}
-            <div className="opacity-0 group-hover:opacity-100 ">
-              <span className="text-2xl font bold text-white tracking-wider ">
+            <div className="opacity-0 group-hover:opacity-100 text-center ">
+              <span className="text-2xl  font bold text-white tracking-wider ">
                 {" "}
-                React/Rails Application
+                WorkoutNow
               </span>
               <div className="pt-8 text-center ">
                 <a href="https://workoutnow-app.onrender.com">
