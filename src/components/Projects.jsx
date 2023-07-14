@@ -1,5 +1,5 @@
 import React from "react";
-import BjjHub from "../assets/bjjhub.png";
+import BjjHubPic from "../assets/bjjhubpic.png";
 import WorkoutNow from "../assets/workoutnow.png";
 
 function Projects() {
@@ -20,14 +20,14 @@ function Projects() {
         <div className="grid sm:grid-cols-2 md:grid-cols-3 gap-4">
           {/* Grid-Item */}
           <div
-            style={{ backgroundImage: `url(${BjjHub})` }}
+            style={{ backgroundImage: `url(${BjjHubPic})` }}
             className="shadow-lg shadow-black group container rounded-md flex justify-center items-center mx-auto content-div"
           >
             {/* Hover Effects */}
             <div className="opacity-0 group-hover:opacity-100 text-center ">
               <span className="text-2xl font bold text-white tracking-wider">
                 {" "}
-                BJJHub
+                BJJHub (React/Rails)
               </span>
               <div className="pt-8 text-center ">
                 <a href="https://bjjhub-app.onrender.com">
@@ -57,7 +57,7 @@ function Projects() {
             <div className="opacity-0 group-hover:opacity-100 text-center ">
               <span className="text-2xl  font bold text-white tracking-wider ">
                 {" "}
-                WorkoutNow
+                WorkoutNow (React/Rails)
               </span>
               <div className="pt-8 text-center ">
                 <a href="https://workoutnow-app.onrender.com">
