@@ -39,7 +39,7 @@ function Home() {
     <div name="home" className="w-full h-screen bg-[#0a192f] flex items-center">
       {/* Container */}
       <div className="max-w-[1000px] mx-auto px-8">
-        <h1 className="text-4xl sm:text-7xl font-bold text-[#ccd6f6] mb-4 sm:mb-8">
+        <h1 className="text-4xl sm:text-7xl font-bold text-[#ccd6f6] mb-4 sm:mb-8 sm:leading-tight">
           James Parrish
         </h1>
         <h2 className="text-4xl sm:text-7xl font-bold text-[#8892b0] mb-4 sm:mb-8">
