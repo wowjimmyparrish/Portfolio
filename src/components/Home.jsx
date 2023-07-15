@@ -38,7 +38,7 @@ function Home() {
   return (
     <div
       name="home"
-      className="w-full min-h-screen bg-[#0a192f] flex items-center"
+      className="w-screen min-h-screen bg-[#0a192f] flex items-center justify-center"
     >
       {/* Container */}
       <div className="max-w-[1000px] mx-auto px-8">
