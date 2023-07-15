@@ -6,7 +6,7 @@ function Projects() {
   return (
     <div
       name="projects"
-      className="w-full md:h-screen text-center sm:text-left text-gray-300 bg-[#0a192f]"
+      className="w-full md:h-screen text-gray-300 bg-[#0a192f]"
     >
       <div className="max-w-[1000px] mx-auto px-4 flex flex-col justify-center h-full w-full">
         <div className="pb-8">
